@@ -2,13 +2,14 @@
 <strong>Ushasi Chaudhuri/</strong> <a href="http://www.mrslab.in/people/">Homepage</a> / <a href="www.linkedin.com/in/ushasi-chaudhuri">LinkedIn</a> / <a href="https://www.researchgate.net/profile/Ushasi-Chaudhuri">ResearchGate</a> / <a href="https://github.com/ushasi">GitHub</a> / <a href="https://scholar.google.co.in/citations?user=nWboYt0AAAAJ&hl=en">Google Scholar</a></pre></p>
 
 ### :sparkler: Welcome stranger :sparkler:
-- :alarm_clock: Currently working on machine learning for drug discovery.
-- :robot: I would love to collaborate on the machine learning libraries [RexMex](https://github.com/AstraZeneca/rexmex) and  [ChemicalX](https://github.com/AstraZeneca/chemicalx).
+- :alarm_clock: Currently working on machine/deep learning for scene data.
+- :robot: I would love to collaborate on graph colvolution networks.
 
 ### :fireworks: Great news :fireworks:
-- :diamonds: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) received a **best paper award** at CIKM 2021.
-- :star: [A Unified View of Relational Deep Learning for Drug Pair Scoring](https://arxiv.org/abs/2111.02916) is out on ArXiv.
-- :dna: [MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy](https://arxiv.org/pdf/2110.15087.pdf) is out on ArXiv.
+- :diamonds: [Earth on Canvas dataset](https://ieee-dataport.org/open-access/earth-canvas-6) is out in **IEEE Data Port** for sketch-based aerial image retrieval.
+- :star: [BDA-SketRet: Bi-Level Domain Adaptation for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/pdf/2201.06570.pdf) is out on ArXiv.
+- :dna: [Zero-Shot Sketch Based Image Retrieval using
+Graph Transformer](https://arxiv.org/pdf/2201.10185.pdf) is out on ArXiv.
 
 
 <!--
