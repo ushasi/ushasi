@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Ushasi Chaudhuri/</strong> <a href="http://www.mrslab.in/people/">Homepage</a> / <a href=""http://www.linkedin.com/in/ushasi-chaudhuri">LinkedIn</a> / <a href="https://www.researchgate.net/profile/Ushasi-Chaudhuri">ResearchGate</a> / <a href="https://github.com/ushasi">GitHub</a> / <a href="https://scholar.google.co.in/citations?user=nWboYt0AAAAJ&hl=en">Google Scholar</a></pre></p>
+<strong>Ushasi Chaudhuri/</strong> <a href="http://www.mrslab.in/people/">Homepage</a> / <a href="http://www.linkedin.com/in/ushasi-chaudhuri">LinkedIn</a> / <a href="https://www.researchgate.net/profile/Ushasi-Chaudhuri">ResearchGate</a> / <a href="https://github.com/ushasi">GitHub</a> / <a href="https://scholar.google.co.in/citations?user=nWboYt0AAAAJ&hl=en">Google Scholar</a></pre></p>
 
 ### :sparkler: Welcome stranger :sparkler:
 - :alarm_clock: Currently working on machine/deep learning for scene data.
